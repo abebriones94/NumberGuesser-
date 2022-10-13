@@ -1,0 +1,15 @@
+/Users/abrahambriones/Projects/NumberGuesser/bin/Debug/net6.0/NumberGuesser
+/Users/abrahambriones/Projects/NumberGuesser/bin/Debug/net6.0/NumberGuesser.deps.json
+/Users/abrahambriones/Projects/NumberGuesser/bin/Debug/net6.0/NumberGuesser.runtimeconfig.json
+/Users/abrahambriones/Projects/NumberGuesser/bin/Debug/net6.0/NumberGuesser.dll
+/Users/abrahambriones/Projects/NumberGuesser/bin/Debug/net6.0/NumberGuesser.pdb
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.csproj.AssemblyReference.cache
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.AssemblyInfo.cs
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.dll
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/refint/NumberGuesser.dll
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.pdb
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/NumberGuesser.genruntimeconfig.cache
+/Users/abrahambriones/Projects/NumberGuesser/obj/Debug/net6.0/ref/NumberGuesser.dll
